@@ -1,0 +1,8 @@
+title: Mile High Android
+description: Android+Embedded+Hardware
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
